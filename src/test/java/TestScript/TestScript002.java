@@ -31,4 +31,10 @@ public class TestScript002 extends testBase{
 		String password = "Password@12345";
 		System.out.println(password);
 	}
+	
+	@Test
+	public void TC006()
+	{
+		String username = "12345";
+	}
 }
